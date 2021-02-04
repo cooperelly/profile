@@ -1,0 +1,22 @@
+
+  body {
+    background-color: #ece2e1;
+
+ }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: #c19277;
+    border-top-width: 7px;
+    width: 3%;
+}
+
+  h1 {
+    color: #c19065;
+    text-decoration: overline;
+    letter-spacing: 4px;
+}
+h3 {
+  color: #c19065;
+  letter-spacing: 3px;
+}
